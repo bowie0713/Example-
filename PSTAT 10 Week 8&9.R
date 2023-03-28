@@ -187,6 +187,8 @@ b <- 10:13
 
 dbListTables(chinook_db)
 
+dbQuery()
+
 
 
 
